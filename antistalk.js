@@ -3,7 +3,7 @@
  * @version 1.1.0
  * @author 1da
  * @description Blocks messages containing "vercel.app" or "vercel.com" links and notifies users of invisible messages.
- * @updateURL https://raw.githubusercontent.com/YourUsername/YourRepository/master/VercelBlocker.plugin.js
+ * @updateURL https://raw.githubusercontent.com/theyneverfoundthebody/vercelblocker/main/antistalk.js
  */
 
 module.exports = class VercelBlocker {
